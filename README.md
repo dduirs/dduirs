@@ -6,6 +6,6 @@
 
 > [!IMPORTANT]
 >   To-dos:
->   - [x] Work on a project
+>   - [x] Update profile
 >   - [x] Study
->   - [ ] Update my profile page
+>   - [ ] Launch big project
