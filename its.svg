@@ -1,0 +1,24 @@
+<svg fill="none" viewBox="0 0 1200 80" width="1200" height="80" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .container {
+          display: flex;
+          justify-content: center;
+          text-align: center;
+          width: 100%;
+          height: 80px;
+          background: linear-gradient(to bottom right, rgba(102, 227, 102, 0.73)3%, rgba(0, 0, 255, 0.68) 50%, rgba(102, 227, 102, 0.73) 90%);
+          color: white;
+        }
+        h2{
+          padding-top: 13px;
+          text-align: center;
+          font-size: larger;
+        }
+      </style>
+
+    <foreignObject width="100%" height="100%">
+    <div class="container" xmlns="http://www.w3.org/1999/xhtml">
+        <h2>¡Hola, Hello，你好！</h2>
+    </div>
+  </foreignObject>
+</svg>
