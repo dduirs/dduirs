@@ -14,11 +14,15 @@
           text-align: center;
           font-size: x-large;
         }
+        a{
+          text-decoration: none;
+          color: white;
+        }
       </style>
 
     <foreignObject width="100%" height="100%">
     <div class="container" xmlns="http://www.w3.org/1999/xhtml">
-        <h2>¡Hola, Hello，你好！</h2>
+        <a href="https://dduirs.github.io/"><h2>¡Hola, Hello，你好！</h2></a>
     </div>
   </foreignObject>
 </svg>
